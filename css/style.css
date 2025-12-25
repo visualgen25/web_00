@@ -691,7 +691,7 @@ footer .wrap { display: flex; justify-content: space-between; align-items: cente
   .profile-container::after {display: none;}
   .widget.subscribe button[data-gold] {transform: scale(.55);}
   /* .widget.subscribe {transform: scale(0.55);} */
-  .news-card {transform: scale(0.85);}
+  .news-card {transform: scale(0.95);}
 .social-buttons {transform: scale(0.5);}
 
 }
